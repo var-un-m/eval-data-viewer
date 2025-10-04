@@ -146,18 +146,14 @@ user456,https://example.com/video2.mp4
 Install tkinter for your OS (see OS-Specific Setup above)
 
 ### Video won't play
+- Mostly needs a few seconds for the video to download
 - Check your internet connection
 - Verify the video URL is accessible
-- Some videos may have expired or restricted URLs
+- Some videos may have expired or restricted URLs (very unlikely)
 
 ### Application freezes during download
 - Large videos may take time to download
-- Status label shows "Downloading video..." during this process
 - Wait for download to complete
-
-## License
-
-This project is provided as-is for dataset creation and video review purposes.
 
 ## Requirements
 
